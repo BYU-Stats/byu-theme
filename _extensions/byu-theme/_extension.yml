@@ -8,6 +8,7 @@ contributes:
       theme: default
       css:
         - "https://cdn.byu.edu/byu-theme-components/2.x.x/byu-theme-components.min.css"
+        - byu-full-bleed.css          
       include-in-header: includes/in-header.html
       include-before-body: includes/before-body.html
       include-after-body:  includes/after-body.html
