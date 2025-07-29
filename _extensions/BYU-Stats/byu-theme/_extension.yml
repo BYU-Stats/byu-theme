@@ -11,4 +11,6 @@ contributes:
         - byu-full-bleed.css          
       include-in-header: includes/in-header.html
       include-before-body: includes/before-body.html
-      include-after-body:  includes/after-body.html
+      include-after-body:
+        - includes/after-body.html
+        - includes/cookie-banner.html 

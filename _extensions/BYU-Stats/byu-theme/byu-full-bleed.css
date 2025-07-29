@@ -12,11 +12,11 @@ byu-header {
   position: fixed;
   top: 0;
   left: 0;
-  width: 100vw;          /* full viewport width (ignores page gutters) */
-  z-index: 1100; 
+  width: 100vw;
 }
 byu-footer {
   flex-shrink: 0;
+  
 }
 
 #quarto-margin-sidebar {
